@@ -1,0 +1,6 @@
+$ pip install tk
+$ pip install transformers torch
+$ pip install text2emotion
+$ pip install SpeechRecognition
+$ pip install pydub
+$ pip install tensorflow
